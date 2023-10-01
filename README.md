@@ -8,6 +8,6 @@ The link to view the Whole Project is given below:-
 <br>
 The link for the DataSet is given below:-
 <br>
-<a href=https://github.com/codebasics/py/blob/master/ML/2_linear_reg_multivariate/Exercise/hiring.csv>Click here to Download </a>
+<a href=https://github.com/I-RoshanKumar/Hiring_ML_Model/blob/main/hiring.csv>Click here to Download </a>
 <br>
 
