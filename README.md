@@ -1,6 +1,6 @@
 # Hiring_ML_Model
 <br>
-This is a Hiring Machine Learning Model in order to easily predict the excepted salary of the employees basedd on their experience and Test_score which was taken during the assessment.
+This is a Hiring Machine Learning Model in order to easily predict the expected salary of the employees based on their experience and Test_score which was taken during the assessment.
 <br>
 The link to view the Whole Project is given below:-
 <br>
@@ -11,3 +11,4 @@ The link for the DataSet is given below:-
 <a href=https://github.com/I-RoshanKumar/Hiring_ML_Model/blob/main/hiring.csv>Click here to Download </a>
 <br>
 
+# You can easily download the model_joblib or model_pickle file in order to directly run and find the prediction of the salary.
